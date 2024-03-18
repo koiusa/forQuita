@@ -1,2 +1,2 @@
 # forQuita
-Data referenced from Quita
+Data referenced to Quita
